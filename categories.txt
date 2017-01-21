@@ -1,38 +1,30 @@
 Categories:
-1. Gaming
-        League
-        CS:Go
-        DotA
-
-2. News / Political
+1. News / Political
         http://abcnews.go.com/Live
 
-3. Sports
-        Couldn't find one for this. Radio streaming?
-        https://www.iheart.com/live/fox-sports-radio-4732/
-4. Beauty
+2. Beauty
         https://www.twitch.tv/directory/game/Creative/makeup
 
-5. Art
+3. Art
     https://www.twitch.tv/directory/game/Creative/artstation
 
-6. Science
-        http://www.ustream.tv/nasahdtv
-
-7. Nature
+4. Nature
         http://www.ustream.tv/decoraheagles
 
-8. Education
+5. Education
         http://www.harvard.edu/live-stream
         https://www.twitch.tv/directory/game/Creative/programming
 
-9. Music / Entertainment
+6. Music / Entertainment
         I was thinking Spotify.
         https://www.twitch.tv/directory/game/Creative/music
         http://www.ustream.tv/tmz
 
-10. Religious
+7. Religious
         http://www.streamingfaith.com/channel/my3c-tv/
 
-11. Lifestyle / Home
+8. Lifestyle / Home
         Don't think this is plausible
+
+9. Science
+        http://www.ustream.tv/nasahdtv
